@@ -14,8 +14,8 @@
 
 ## Current Projects
 
-- 📄 [**DocTalk**](https://github.com/Rswcf/DocTalk) – AI-powered document reading and citation assistant. `JavaScript`
-- 🌐 [**DataCube AI Space**](https://github.com/Rswcf/DataCube-AI-Space) – Open-source bilingual AI news aggregator; 22 RSS feeds + HN + YouTube, curated by a 4-stage LLM pipeline. `TypeScript`
-- 🎬 [**berlinale-ticket-buyer**](https://github.com/Rswcf/berlinale-ticket-buyer) – Automated ticket sniper for the Berlin International Film Festival. Real-time monitoring, precision-timed grabs, sold-out watching. `Python`
+- 📄 [**DocTalk**](https://github.com/Rswcf/DocTalk) – AI-powered document reading and citation assistant.
+- 🌐 [**DataCube AI Space**](https://github.com/Rswcf/DataCube-AI-Space) – Open-source bilingual AI news aggregator; 22 RSS feeds + HN + YouTube, curated by a 4-stage LLM pipeline.
+- 🎬 [**berlinale-ticket-buyer**](https://github.com/Rswcf/berlinale-ticket-buyer) – Automated ticket sniper for the Berlin International Film Festival. Real-time monitoring, precision-timed grabs, sold-out watching.
 - 📊 [**DeepViews**](https://www.deepviews.dev/en/company) (closed source) – AI-powered free stock analysis platform. DCF valuation, WACC analysis, industry benchmarking with 50+ financial metrics.
 - ✍️ [**DeepViews Blog**](https://deepviews.xyz/) (closed source) – Notes on Technology & Markets. Independent equity research, macro commentary, and trend analysis.
