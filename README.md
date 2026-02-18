@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Yijie
 
-<!--
-**Rswcf/Rswcf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Berlin &nbsp;|&nbsp; Finance / Technology — building AI-powered tools & automations.
 
-Here are some ideas to get you started:
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+
+- 📄 [**DocTalk**](https://github.com/Rswcf/DocTalk) – AI-powered document reading and citation assistant. `JavaScript`
+- 🌐 [**DataCube AI Space**](https://github.com/Rswcf/DataCube-AI-Space) – Open-source bilingual AI news aggregator; 22 RSS feeds + HN + YouTube, curated by a 4-stage LLM pipeline. `TypeScript`
+- 🎬 [**berlinale-ticket-buyer**](https://github.com/Rswcf/berlinale-ticket-buyer) – Automated ticket sniper for the Berlin International Film Festival. Real-time monitoring, precision-timed grabs, sold-out watching. `Python`
