@@ -8,6 +8,9 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-d97706?style=flat&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-10a37f?style=flat&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 
 ## Current Projects
 
