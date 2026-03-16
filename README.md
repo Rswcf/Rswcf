@@ -1,6 +1,6 @@
 # Hi, I'm Yijie
 
-📍 Berlin &nbsp;|&nbsp; Finance / Technology — building AI-powered tools & automations.
+📍 Technology / Finance — building AI-powered tools & automations.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
