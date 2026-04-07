@@ -14,7 +14,7 @@ I build AI-powered tools & automations.
 
 ## Current Projects
 
-- 🏦 [**Sentinel Deal Agent**](https://deal-agent.app/) (closed source) – AI-native platform for M&A deal teams. Automates financial due diligence — from raw trial balances and SEC filings to analyst-ready workpapers. Agentic multi-model pipeline with extensible domain skills, built for the full deal lifecycle.
+- 🏦 [**Sentinel Deal Agent**](https://deal-agent.app/) (closed source) – AI-native agentic system for M&A deal teams. Automates financial due diligence today — from raw trial balances and SEC filings to analyst-ready workpapers. Expanding across the full deal lifecycle with multi-model reasoning and extensible domain skills.
 - 📄 [**DocTalk**](https://github.com/Rswcf/DocTalk) – AI-powered document reading and citation assistant.
 - 🌐 [**DataCube AI Space**](https://github.com/Rswcf/DataCube-AI-Space) – Open-source bilingual AI news aggregator; 22 RSS feeds + HN + YouTube, curated by a 4-stage LLM pipeline.
 - 🎬 [**berlinale-ticket-buyer**](https://github.com/Rswcf/berlinale-ticket-buyer) – Automated ticket sniper for the Berlin International Film Festival. Real-time monitoring, precision-timed grabs, sold-out watching.
