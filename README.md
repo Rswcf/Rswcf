@@ -20,4 +20,4 @@ I build AI-powered tools & automations.
 - 🎬 [**berlinale-ticket-buyer**](https://github.com/Rswcf/berlinale-ticket-buyer) – Automated ticket sniper for the Berlin International Film Festival. Real-time monitoring, precision-timed grabs, sold-out watching.
 - 📊 [**DeepViews**](https://www.deepviews.dev/en/company) (closed source) – AI-powered free stock analysis platform. DCF valuation, WACC analysis, industry benchmarking with 50+ financial metrics.
 - ✍️ [**DeepViews Blog**](https://deepviews.xyz/) (closed source) – Notes on Technology & Markets. Independent equity research, macro commentary, and trend analysis.
-- 🎙 [**Dictivo**](https://dictivo.app) – Private, 100% on-device voice dictation. Whisper-grade transcription that never leaves your laptop, with a global hotkey, hardware-aware model tier selection, local polish, and a floating mascot companion. macOS + Windows, MIT-licensed.
+- 🎙 [**Dictivo**](https://dictivo.app) – Private, 100% on-device voice dictation. Whisper-grade transcription that never leaves your laptop, with a global hotkey, hardware-aware model tier selection, local polish, and a floating mascot companion. macOS + Windows.
